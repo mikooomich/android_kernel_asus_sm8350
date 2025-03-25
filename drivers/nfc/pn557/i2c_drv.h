@@ -23,7 +23,7 @@
 #include <linux/i2c.h>
 
 /* kept same as dts */
-#define NFC_I2C_DRV_STR			"nxp,sn-nci"
+#define NFC_I2C_DRV_STR			"nxp,pn544"
 #define NFC_I2C_DEV_ID			"sn-i2c"
 
 /* Interface specific parameters */
