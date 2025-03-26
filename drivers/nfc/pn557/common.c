@@ -21,7 +21,6 @@
 #include <linux/of_gpio.h>
 #include <linux/delay.h>
 #include <linux/interrupt.h>
-#include <linux/uaccess.h>
 
 #include "common_ese.h"
 
